@@ -1,5 +1,5 @@
 # hello-world
-1st in GitHub
+1st time in GitHub
 
 
 I love to edit
